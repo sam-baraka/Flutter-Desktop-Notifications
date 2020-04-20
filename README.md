@@ -1,13 +1,15 @@
-# flutter_desktop_notifications
+# Flutter Desktop Plugin
 
-A new flutter plugin project.
+A flutter notifications plugin project for Windows, macOs and Linux.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+## This project is highly experimental and the Windows and Linux Folders will change since 
+## their support is still in technical preview
+
+
+
+
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
